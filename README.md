@@ -14,9 +14,10 @@ The motive of this token is, empowering Refugees and Transgenders in the world. 
 "WILDBIRD Token ICO: Buy WildBird for launch price 0.007 USD (0.001 Waves), at https://waves.exchange. Buy and support Refugees and Transgenders. Visit https://wildbird.decentra.co.in to download wallet."
 
 ###**Team WildBird**
+*https://wildbird.decentra.co.in
 
 ### WildBird Token is supported by Ledger Hardware Wallet
-![](http://wildbird.decentra.co.in/img/waves.jpg)
+![](http://wildbird.decentra.co.in/img/ledgerwallet.jpg)
 
 **Visit**: *Download wallet and exchange app
 https://wildbird.decentra.co.in*
