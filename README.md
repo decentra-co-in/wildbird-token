@@ -1,7 +1,7 @@
 # wildbird-token
-WildBird Token (Launch price 0.0007USD (0.0001 WAVES)) 
+**WildBird Token** *(Launch price 0.0007USD (0.0001 WAVES))* 
 
-WildBird Crypto Token is issued with the collaboration of Waves.Exchange, a open blockchain protocol. 
+WildBird Crypto Token is issued with the collaboration of Waves Platform, a open blockchain protocol. 
 
 The motive of this token is, empowering Refugees and Transgenders in the world. Refugees and Transgenders can contact us with proper documentation, for free tokens. Sell tokens later at https://waves.exchange for market fair price. 
 
