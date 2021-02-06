@@ -1,5 +1,5 @@
 # wildbird-token
-![](https://drive.google.com/file/d/1bLKOucTwbK8e4SswcLz1G8F2LR52OdQ3/view?usp=sharing)
+![](http://wildbird.decentra.co.in/img/wildbird.jpg)
 **WildBird Token** *(Launch price 0.007USD (0.001 WAVES))* 
 
 WildBird Crypto Token is issued with the collaboration of Waves Platform, a open blockchain protocol. 
