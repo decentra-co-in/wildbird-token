@@ -1,5 +1,5 @@
 # wildbird-token
-**WildBird Token** *(Launch price 0.0007USD (0.0001 WAVES))* 
+**WildBird Token** *(Launch price 0.007USD (0.001 WAVES))* 
 
 WildBird Crypto Token is issued with the collaboration of Waves Platform, a open blockchain protocol. 
 
