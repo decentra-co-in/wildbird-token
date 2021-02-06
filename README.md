@@ -11,4 +11,6 @@ AIRDROP: Share following message in your social media accounts. Send screenshots
 "WILDBIRD Token ICO: Buy WildBird for launch price 0.007 USD (0.001 Waves), at https://waves.exchange. Buy and support Refugees and Transgenders. Visit https://wildbird.decentra.co.in to download wallet."
 
 Team WildBird 
+
+Visit: Download wallet and exchange app
 https://wildbird.decentra.co.in
