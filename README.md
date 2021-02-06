@@ -1,5 +1,6 @@
 # wildbird-token
 ![](http://wildbird.decentra.co.in/img/wildbird.jpg)
+
 **WildBird Token** *(Launch price 0.007USD (0.001 WAVES))* 
 
 WildBird Crypto Token is issued with the collaboration of Waves Platform, a open blockchain protocol. 
@@ -15,3 +16,24 @@ The motive of this token is, empowering Refugees and Transgenders in the world. 
 
 **Visit**: *Download wallet and exchange app
 https://wildbird.decentra.co.in*
+
+### What is Waves Platform?
+Waves is an open platform and decentralized environment for Web3 applications. It offers a wide range of purpose-designed tools for making the process of creating and running DApps easy and accessible.
+
+### How does it work?
+Waves Platform offers an accessible development environment with a primary focus on decentralization. The core functionality of the platform includes:
+- Token operations, exchanging and storing value, managing and creating Digital Assets;
+- Creating and running DApps and decentralized software solutions.
+- Since its mainnet launch in 2017, Waves Platform consists of three core layers:
+- Protocol layer: LPoS, Waves-NG protocol (adapted Bitcoin-NG), RIDE programming language, and sidechains (coming soon) for a functional, secure and scalable network.
+- Infrastructure layer: IDE for sandbox development, tools, SDKs, libraries, frameworks and protocols for convenient and easy integrations.
+- Application layer: Basic core open-source apps (decentralized exchange, mobile apps) and DApp ecosystem for network utility.
+
+### What does it aim to solve?
+Waves technology is designed to address the needs of developers, businesses and technology companies that want to leverage the properties of blockchain systems. They promise security, auditability, verifiability and the trustless execution of transactions and programming logic.
+
+### What are its features?
+Decentralized: Waves’ peer-to-peer network has no middlemen, gatekeepers or single point of failure.
+Fast: Proof-of-Stake algorithm and Waves-NG protocol enable rapid yet secure transactions.
+Versatile: Designed to address all of the most pressing needs of developers exploring blockchain integrations.
+Open: No restrictions around who can use the platform or run a validating node.
