@@ -6,7 +6,6 @@
 WildBird Crypto Token is issued with the collaboration of Waves Platform, a open blockchain protocol. 
 
 The motive of this token is, empowering Refugees and Transgenders in the world. Refugees and Transgenders can contact us with proper documentation, for free tokens. Sell tokens later at https://waves.exchange for market fair price. 
-![](http://wildbird.decentra.co.in/img/waves.jpg)
 
 **ICO**: Buy WildBird Tokens now directly at https://waves.exchange. This initial funding will be helpful to us, to expand our reach. Initial WildBird token price is 0.007USD (0.001 WAVES) per token. You can buy directly at waves.exchange. 
 
@@ -42,3 +41,5 @@ Decentralized: Waves’ peer-to-peer network has no middlemen, gatekeepers or si
 Fast: Proof-of-Stake algorithm and Waves-NG protocol enable rapid yet secure transactions.
 Versatile: Designed to address all of the most pressing needs of developers exploring blockchain integrations.
 Open: No restrictions around who can use the platform or run a validating node.
+
+![](http://wildbird.decentra.co.in/img/waves.jpg)
