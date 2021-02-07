@@ -1,4 +1,4 @@
-# wildbird-token
+# WildBird Token
 ![](http://wildbird.decentra.co.in/img/wildbird.jpg)
 
 **WildBird Token** *(Launch price 0.007USD (0.001 WAVES))* 
@@ -12,14 +12,16 @@ The motive of this token is, empowering Refugees and Transgenders in the world. 
 **AIRDROP**: Share following message in your social media accounts. Send screenshots with your WAVES wallet address and receive 5,000 Free WildBird Tokens. (Equals $35)
 "WILDBIRD Token ICO: Buy WildBird for launch price 0.007 USD (0.001 Waves), at https://waves.exchange. Buy and support Refugees and Transgenders. Visit https://wildbird.decentra.co.in to download wallet."
 
-###**Team WildBird**
+**Team WildBird**
 *https://wildbird.decentra.co.in
+
 
 ### WildBird Token is supported by Ledger Hardware Wallet
 ![](http://wildbird.decentra.co.in/img/ledgerwallet.jpg)
 
 **Visit**: *Download wallet and exchange app
 https://wildbird.decentra.co.in*
+
 
 ### What is Waves Platform?
 Waves is an open platform and decentralized environment for Web3 applications. It offers a wide range of purpose-designed tools for making the process of creating and running DApps easy and accessible.
@@ -37,9 +39,9 @@ Waves Platform offers an accessible development environment with a primary focus
 Waves technology is designed to address the needs of developers, businesses and technology companies that want to leverage the properties of blockchain systems. They promise security, auditability, verifiability and the trustless execution of transactions and programming logic.
 
 ### What are its features?
-Decentralized: Waves’ peer-to-peer network has no middlemen, gatekeepers or single point of failure.
-Fast: Proof-of-Stake algorithm and Waves-NG protocol enable rapid yet secure transactions.
-Versatile: Designed to address all of the most pressing needs of developers exploring blockchain integrations.
-Open: No restrictions around who can use the platform or run a validating node.
+**Decentralized**: Waves’ peer-to-peer network has no middlemen, gatekeepers or single point of failure.
+**Fast**: Proof-of-Stake algorithm and Waves-NG protocol enable rapid yet secure transactions.
+**Versatile**: Designed to address all of the most pressing needs of developers exploring blockchain integrations.
+**Open**: No restrictions around who can use the platform or run a validating node.
 
 ![](http://wildbird.decentra.co.in/img/waves.jpg)
