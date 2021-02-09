@@ -7,7 +7,7 @@ WildBird Crypto Token is issued with the collaboration of Waves Platform, a open
 
 The motive of this token is, empowering Refugees and Transgenders in the world. Refugees and Transgenders can contact us with proper documentation, for free tokens. Sell tokens later at https://waves.exchange for market fair price. 
 
-**ICO**: Buy WildBird Tokens now directly at https://waves.exchange. This initial funding will be helpful to us, to expand our reach. Initial WildBird token price is 0.007USD (0.001 WAVES) per token. You can buy directly at waves.exchange. 
+**ICO**: Buy WildBird Tokens now directly at https://waves.exchange. This initial funding will be helpful to us, to expand our reach. Initial WildBird token price is 0.007USD (0.001 WAVES) per token. You can buy directly at waves.exchange. Details here... https://cryptochain.substack.com/p/wildbird-token-ico-and-airdrop
 
 **AIRDROP**: Share following message in your social media accounts. Send screenshots with your WAVES wallet address and receive 1,000 Free WildBird Tokens. (Equals $7)
 
