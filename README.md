@@ -1,4 +1,4 @@
-# WildBird Token
+# WildBird Token to support Refugees and Transgenders
 ![](http://wildbird.decentra.co.in/img/wildbird.jpg)
 
 **WildBird Token** *(Launch price 0.007USD (0.001 WAVES))* 
