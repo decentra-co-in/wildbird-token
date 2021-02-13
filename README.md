@@ -1,5 +1,4 @@
 # WildBird Token to support Refugees and Transgenders
-<p align="center"><a href="https://wavesprotocol.org/"><img src="logo.svg" width="50%"/></a></p>
 ![](http://wildbird.decentra.co.in/img/wildbird.jpg)
 
 **WildBird Token** *(Launch price 0.007USD (0.001 WAVES))* 
@@ -18,8 +17,12 @@ The motive of this token is, empowering Refugees and Transgenders in the world. 
 
 
 **Team WildBird**
-*https://wildbird.decentra.co.in*
 
+## Links
+
+- [Waves website](https://wavesprotocol.org/)
+- [WildBird Website](https://wildbird.decentra.co.in)
+- [Market Capitalization](https://tokenrating.wavesexplorer.com/tokens/FC9r4HaGmeZQb2Hvz5LRSPYy7GdinrNKEViYBMqj5Eyf)
 
 ### WildBird Token is supported by Ledger Hardware Wallet
 ![](http://wildbird.decentra.co.in/img/ledgerwallet.jpg)
