@@ -1,4 +1,5 @@
 # WildBird Token to support Refugees and Transgenders
+<p align="center"><a href="https://wavesprotocol.org/"><img src="logo.svg" width="50%"/></a></p>
 ![](http://wildbird.decentra.co.in/img/wildbird.jpg)
 
 **WildBird Token** *(Launch price 0.007USD (0.001 WAVES))* 
